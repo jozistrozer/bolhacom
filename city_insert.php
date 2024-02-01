@@ -12,5 +12,4 @@
     } else {
         header('Location: city_add.php');
     }
-
 ?>
